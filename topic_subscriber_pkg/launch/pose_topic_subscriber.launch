@@ -1,0 +1,9 @@
+<launch>
+  <!-- Launch the pose_topic_subscriber node -->
+  <node name="pose_topic_subscriber_node" pkg="topic_subscriber_pkg" type="pose_topic_subscriber" />
+
+
+
+
+
+</launch>
